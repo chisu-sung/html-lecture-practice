@@ -1,0 +1,19 @@
+div#loginid fieldset h3{
+    display: inline-block;
+}
+
+
+div#loginpw fieldset{
+    display: inline;
+}
+
+div#loginbutton > button{
+    display: inline;
+    style=background-color: rgb(240, 183, 27);
+     width: 206px; border-color: rgb(240, 183, 27) ;
+      margin: auto
+<
+}
+div#loginidne {
+    display: inline;
+}
